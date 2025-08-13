@@ -13,4 +13,4 @@ My work is driven by an interest in how the earliest stages of life shape later 
 
 Alongside my research, I work in the Newborn Cohort of the National Educational Panel Study [(NEPS)](https://www.neps-data.de/Data-Center/Data-and-Documentation/SC1-Newborns), an innovative large-scale longitudinal study with an exceptionally broad range of competence measures starting at the age of seven months.
 
-For more details on my academic background, see my [full CV](https://lohmannc.github.io/home/CV_ENG_CL.pdf).
+For more details on my academic background, see my [full CV](https://lohmannc.github.io/CV_ENG_CL.pdf).
