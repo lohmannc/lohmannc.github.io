@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Christian Lohmann<br> Sociology"
+title                    : "Dr. Christian Lohmann<br> Sociology"
 title_separator          : "-"
-name                     : &name "Christian Lohmann"
+name                     : &name "Dr. Christian Lohmann"
 description              : &description "Academic profile of Christian Lohmann, sociologist focusing on early socialization, educational inequality, language acquisition and parenting."
 url                      : "https://lohmannc.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : #"/home" # the subpath of your site, e.g. "/blog"
@@ -23,10 +23,10 @@ repository               : "lohmannc.github.io"
 author:
   # Biographic information
   avatar           : "profile_HP.JPG"
-  name             : "Christian Lohmann"
+  name             : "Dr. Christian Lohmann"
   pronouns         : # example: "she/her"  
-  bio              : "Sociologist (Post-Doc) at LIfBi (NEPS)"
-  location         : "Bamberg"
+  bio              : "Sociologist at LIfBi (NEPS)"
+  location         : "Bamberg, Germany"
   employer         : "LIfBi"
   uri              : # URL
   email            : "lohmann.christian@outlook.com" 
