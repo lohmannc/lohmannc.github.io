@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Christian Lohmann<br> Sociology"
 title_separator          : "-"
 name                     : &name "Christian Lohmann"
-description              : &description "Academic profile of Christian Lohmann, sociologist focusing on early socialization, educational inequality, language acquisition, and class-based parenting values."
+description              : &description "Academic profile of Christian Lohmann, sociologist focusing on early socialization, educational inequality, language acquisition and parenting."
 url                      : "https://lohmannc.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : #"/home" # the subpath of your site, e.g. "/blog"
 repository               : "lohmannc.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile_HP.JPG"
   name             : "Christian Lohmann"
   pronouns         : # example: "she/her"  
-  bio              : "Sociologist at LIfBi (NEPS) & Doctoral Student at Goethe University Frankfurt."
-  location         : "Bamberg & Frankfurt am Main, <br> Germany"
+  bio              : "Sociologist (Post-Doc) at LIfBi (NEPS)"
+  location         : "Bamberg"
   employer         : "Leibniz Institute for Educational <br> Trajectories (LIfBi)"
   uri              : # URL
-  email            : "christian.lohmann@lifbi.de" 
+  email            : "lohmann.christian@outlook.com" 
 
   # Academic websites
   academia         : # "https://www.lifbi.de/en-us/Start/Institute/People/Person/account/4414?name=Lohmann%2cChristian"
