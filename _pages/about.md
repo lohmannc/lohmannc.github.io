@@ -13,6 +13,6 @@ My research focuses on the intergenerational transmission of social inequalities
 
 During my PhD, my research has focused on individual and family processes in the context of competence development and migration. I am currently extending this research strand by examining how macro-structural conditions relate to parents’ child-rearing decisions.
 
-Alongside my research, I work in the [Leibniz Center of Excellence for Early Childhood Education](https://www.lifbi.de/en-us/Start/Research/All-Projects/EarlyEd) and the Newborn Cohort of the National Educational Panel Study [(NEPS)](https://www.neps-data.de/Data-Center/Data-and-Documentation/SC1-Newborns), an innovative large-scale longitudinal study with an exceptionally broad range of competence measures starting at the age of seven months. 
+Alongside my research, I work at the [Leibniz Center of Excellence for Early Childhood Education](https://www.lifbi.de/en-us/Start/Research/All-Projects/EarlyEd) and the Newborn Cohort of the National Educational Panel Study [(NEPS)](https://www.neps-data.de/Data-Center/Data-and-Documentation/SC1-Newborns), an innovative large-scale longitudinal study with an exceptionally broad range of competence measures starting at the age of seven months. 
 
 For more details on my academic background, see my [full CV](https://lohmannc.github.io/CV_ENG_CL.pdf).
